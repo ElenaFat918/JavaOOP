@@ -1,0 +1,7 @@
+/**
+ * Summa
+ */
+public class Summa {
+
+    
+}
